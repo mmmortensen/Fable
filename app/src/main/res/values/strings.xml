@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fable</string>
+    <string name="action_settings">Settings</string>
+    <string name="Scan">Scan</string>
+    <string name="Select_Bluetooth_Device">Select Bluetooth Device</string>
+    <string name="Stop_Scan">Stop Scan</string>
+
+</resources>
